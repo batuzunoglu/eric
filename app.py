@@ -20,5 +20,5 @@ asd = draw_horse()
 print('aasdad')
 print(asd)
 
-st.title(asd)
+st.title('canim karimi cok severim')
 
