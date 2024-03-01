@@ -14,7 +14,7 @@ def draw_horse():
     """
     print(horse)
 
-draw_horse()
+asd = draw_horse()
 
-st.title(draw_horse())
+st.title(asd)
 
