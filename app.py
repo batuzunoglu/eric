@@ -10,7 +10,8 @@ def draw_horse():
  ,;'( )__, )  ~
 //  //   '--;.
 '   \     | ^
-     ^    ^      
+     ^    ^
+     karicim bu at senin icin binek de gezek      
     """
     print(horse)
     return horse
