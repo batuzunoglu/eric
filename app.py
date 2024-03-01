@@ -13,8 +13,11 @@ def draw_horse():
      ^    ^      
     """
     print(horse)
+    return horse
 
 asd = draw_horse()
+print('aasdad')
+print(asd)
 
 st.title(asd)
 
